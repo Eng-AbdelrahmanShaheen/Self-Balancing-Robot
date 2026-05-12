@@ -129,3 +129,9 @@ The simulation demonstrates:
 - All GIFs illustrate real simulation behavior
 - Fully built in MATLAB/Simulink environment
 - No physical hardware required (simulation only project)
+  
+---
+
+## ✍️ Author
+
+Abdelrahman Shaheen
