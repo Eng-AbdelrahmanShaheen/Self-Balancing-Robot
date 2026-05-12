@@ -124,6 +124,12 @@ The simulation demonstrates:
 
 ---
 
+# Video Demonstration
+
+[Watch Video](Videos/Simulation.mp4)
+
+---
+
 ## 📎 Notes
 
 - All GIFs illustrate real simulation behavior
