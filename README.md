@@ -1,4 +1,4 @@
-# 🧠 Self-Balancing Robot Simulation using Simscape (MATLAB)
+# Self-Balancing Robot Simulation using Simscape (MATLAB)
 
 ## 📌 Overview
 
