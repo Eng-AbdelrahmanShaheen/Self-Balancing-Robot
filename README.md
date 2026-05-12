@@ -124,7 +124,7 @@ The simulation demonstrates:
 
 ---
 
-# Video Demonstration
+# 📽️ Video Demonstration
 
 [Watch Video](Videos/Simulation.mp4)
 
